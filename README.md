@@ -1,4 +1,4 @@
-# DiplomaWork
+# 🎓 DiplomaWork
 
 ### https://github.com/AlinaAnka/BooksShop_UI
 
